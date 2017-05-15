@@ -70,10 +70,12 @@
 		<div id="main" class="wrapper">
 			<div class="vision-row clearfix">
 
+<div class="testdiv">
+        HOW ABOUT HERE?
+      </div>
+
 				<?php
 				#############################################################
 				# FRONTPAGE BOXES ACTION
 				#############################################################
 				do_action( 'agama_frontpage_boxes_action' ); ?>
-
-    
